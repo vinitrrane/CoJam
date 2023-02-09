@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/CoJam/static/css/main.436a662b.css",
+    "main.js": "/CoJam/static/js/main.55cc30e1.js",
+    "static/js/787.5b297634.chunk.js": "/CoJam/static/js/787.5b297634.chunk.js",
+    "static/media/video3.mp4": "/CoJam/static/media/video3.38be45c4a25a3a469ac8.mp4",
+    "static/media/video2.mp4": "/CoJam/static/media/video2.c58291c62db1c5e4cf21.mp4",
+    "static/media/video4.mp4": "/CoJam/static/media/video4.3419a242b9f8351f965d.mp4",
+    "static/media/video1.mp4": "/CoJam/static/media/video1.a7ad9ca7ca097ebeef5a.mp4",
+    "static/media/placeholder-profile.jpg": "/CoJam/static/media/placeholder-profile.d2fd95a2dc9868329b45.jpg",
+    "static/media/Montserrat-Regular.ttf": "/CoJam/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/OpenSans-Regular.ttf": "/CoJam/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "static/media/host.svg": "/CoJam/static/media/host.cb2af6310420dc5afe46b69a0eb3e9f7.svg",
+    "static/media/mute.svg": "/CoJam/static/media/mute.5ef1270f4c3e00f3a772a825595ffa42.svg",
+    "static/media/audiooff.svg": "/CoJam/static/media/audiooff.ee2041114f892042b47d0a930d413a5e.svg",
+    "static/media/invite.svg": "/CoJam/static/media/invite.2c852846b1899972f3dd3c4b2579ab64.svg",
+    "static/media/down.svg": "/CoJam/static/media/down.6926ee3cb7e1059b0ff8b962291bec58.svg",
+    "index.html": "/CoJam/index.html",
+    "static/media/sidemenu.svg": "/CoJam/static/media/sidemenu.cd39a8382a71454847e14231763cc777.svg",
+    "static/media/statusicon.svg": "/CoJam/static/media/statusicon.1d7c8fb2facc845b29741bebb44212d4.svg",
+    "static/media/controloption.svg": "/CoJam/static/media/controloption.f655adb3e62ca724f5e6eaf163ab0a69.svg",
+    "static/media/tempoplus.svg": "/CoJam/static/media/tempoplus.b5e51fd6f8fb30f57329a301998efa70.svg",
+    "static/media/videocall.svg": "/CoJam/static/media/videocall.e866c05adce2be70bd39277a5448492f.svg",
+    "static/media/videooff.svg": "/CoJam/static/media/videooff.23ccc1ef87c6e0d68bef2756cf4a8297.svg",
+    "static/media/otheroptions.svg": "/CoJam/static/media/otheroptions.38f52a4cb65d3d2799542f2b559c4c7f.svg",
+    "static/media/record.svg": "/CoJam/static/media/record.b9571663ae46e60f6e8a4ddf6d19c0fd.svg",
+    "static/media/tempominus.svg": "/CoJam/static/media/tempominus.3e4ff91fcc726546a3f5b9caa828af7d.svg",
+    "static/media/activeside.svg": "/CoJam/static/media/activeside.56d91574493269158801d3a180a06560.svg",
+    "main.436a662b.css.map": "/CoJam/static/css/main.436a662b.css.map",
+    "main.55cc30e1.js.map": "/CoJam/static/js/main.55cc30e1.js.map",
+    "787.5b297634.chunk.js.map": "/CoJam/static/js/787.5b297634.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436a662b.css",
+    "static/js/main.55cc30e1.js"
+  ]
+}
